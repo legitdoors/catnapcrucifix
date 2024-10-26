@@ -19,7 +19,7 @@ local localPlayerGui = localPlayer:WaitForChild("PlayerGui")
 local localMouse = localPlayer:GetMouse()
 
 local assets = {
-    Repentance = LoadCustomInstance("https://github.com/legitdoors/catnapcrucifix/blob/main/hallow%20cruci.rbxm?raw=true"),
+    Repentance = LoadCustomInstance("https://github.com/legitdoors/catnapcrucifix/blob/main/hallow%20cruci.rbxm"),
     Crucifix = LoadCustomInstance("https://github.com/RegularVynixu/Utilities/raw/refs/heads/main/Doors/Item%20Spawner/Assets/Crucifix.rbxm")
 }
 local moduleScripts = {
