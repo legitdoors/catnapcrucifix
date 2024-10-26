@@ -20,7 +20,7 @@ local localMouse = localPlayer:GetMouse()
 
 local assets = {
     Repentance = LoadCustomInstance("96051780287659"),
-    Crucifix = LoadCustomInstance("86914132974223")
+    Crucifix = LoadCustomInstance("https://github.com/legitdoors/catnapcrucifix/blob/main/cruci%20juicy.rbxm")
 }
 local moduleScripts = {
 	Main_Game = require(localPlayerGui.MainUI.Initiator.Main_Game),
