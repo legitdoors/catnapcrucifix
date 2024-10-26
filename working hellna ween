@@ -20,7 +20,7 @@ local localMouse = localPlayer:GetMouse()
 
 local assets = {
     Repentance = LoadCustomInstance("96051780287659"),
-    Crucifix = LoadCustomInstance("138384429253444")
+    Crucifix = LoadCustomInstance("99370001731596")
 }
 local moduleScripts = {
 	Main_Game = require(localPlayerGui.MainUI.Initiator.Main_Game),
